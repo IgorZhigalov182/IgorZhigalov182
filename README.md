@@ -2,6 +2,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Twitter Badge"/>
+</div>
 <!-- 
 **IgorZhigalov182/IgorZhigalov182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
