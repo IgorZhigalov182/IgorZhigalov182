@@ -8,12 +8,17 @@
     <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK" alt="VK Badge"/>
   </a>
   
+  <a href="https://t.me/IgorZhigalov">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
   
-  <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Twitter Badge"/>
-</div>
+  <a href="https://vk.com/id149175616">
+    <img src="https://mail.google.com/mail/u/0/#inbox" alt="Gmail Badge"/>
+  </a>
+ </div>
 
 <!-- 
+
 **IgorZhigalov182/IgorZhigalov182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
