@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/id149175616">
     <img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK" alt="VK Badge"/>
   </a>
@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   
-  <a href="zhigalovzenit112233@gmail.com">
+<!--   <a href="zhigalovzenit112233@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
-  </a>
+  </a> -->
  </div>
 
 <!-- 
