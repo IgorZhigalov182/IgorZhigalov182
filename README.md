@@ -13,7 +13,7 @@
   </a>
   
   <a href="https://vk.com/id149175616">
-    <img src="https://mail.google.com/mail/u/0/#inbox" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
  </div>
 
