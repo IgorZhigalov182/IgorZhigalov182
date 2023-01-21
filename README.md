@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   
-  <a href="https://vk.com/id149175616">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
  </div>
