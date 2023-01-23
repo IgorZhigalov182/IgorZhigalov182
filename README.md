@@ -12,11 +12,11 @@
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   
+
+ </div>
 <!--   <a href="zhigalovzenit112233@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a> -->
- </div>
-
 <!-- 
 
 **IgorZhigalov182/IgorZhigalov182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
