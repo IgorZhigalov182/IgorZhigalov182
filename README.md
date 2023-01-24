@@ -11,7 +11,6 @@
   <a href="https://t.me/IgorZhigalov">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  
  </div>
 <!--   <a href="zhigalovzenit112233@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
